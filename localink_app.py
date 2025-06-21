@@ -49,3 +49,4 @@ st.markdown("- 예시 공고 2")
 # 7. 살아보기 신청 버튼
 if st.button("이 지역 살아보기 신청하기"):
     st.success(f"{selected_region} 신청이 완료되었습니다! 담당자가 곧 연락드릴 예정입니다.")
+
