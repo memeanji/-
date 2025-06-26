@@ -1,5 +1,0 @@
-streamlit
-pandas
-folium
-pandas
-numpy
